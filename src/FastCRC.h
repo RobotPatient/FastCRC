@@ -52,6 +52,7 @@
 #endif
 
 #include <inttypes.h>
+#include <cstddef>
 
 
 // ================= DEFINES ===================
